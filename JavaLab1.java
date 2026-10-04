@@ -1,0 +1,11 @@
+//Urbano, Chrisitan James E. 
+//BSIT-NS/1st Year/1-1
+public class JavaLab1
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("Welcome to Java Programming Using NetBeans!");
+		System.out.println("I Love Java Programming");
+		System.out.println("Urbano, Christian James");
+	}
+}
